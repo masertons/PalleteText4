@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi</string>
+    <string name="img_splash">ini gambar splash sreen</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="number_signed">number(signed)</string>
+    <string name="number">number</string>
+    <string name="number_decimal">number(decimal)</string>
+    <string name="actv">ACTV</string>
+    <string name="mactv">MACTV</string>
+</resources>
